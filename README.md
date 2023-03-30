@@ -1,3 +1,4 @@
+![logo](https://github.com/redrik278/redrik278/blob/main/git_logo.png)
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer</h3>
 
