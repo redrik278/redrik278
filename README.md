@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/c/red rik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="red rik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/redrik278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="redrik278" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/d62cDs3Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/d62cDs3Z" height="30" width="40" /></a>
-<a href="/https://rss.com/podcasts/redrik278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/redrik278/" height="30" width="40" /></a>
+<a href="https://rss.com/podcasts/redrik278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/redrik278/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
