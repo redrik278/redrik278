@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django,**
 
-- 📝 I regularly write articles on [https://github.com/redrik278](https://github.com/redrik278)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Django, Html, CSS, Bootstrap, Java, Python, C, C++ etc. etc.**
 
 - 📫 How to reach me **redrik278@gmail.com**
