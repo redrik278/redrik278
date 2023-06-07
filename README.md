@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Django, Html, CSS, Bootstrap, Java, Python, C etc. etc.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Django, Html, CSS, Bootstrap, Java, Python, C etc...**
 
 - 📫 How to reach me **redrik278@gmail.com**
 
