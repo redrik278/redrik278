@@ -1,6 +1,6 @@
 ![logo](https://github.com/redrik278/redrik278/blob/main/git_logo.png)
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
-<h3 align="center">Data Science major student & Web Developer</h3>
+<h3 align="center">Data Science major student</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
