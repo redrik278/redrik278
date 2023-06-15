@@ -7,24 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redrik278&label=Profile%20views&color=0e75b6&style=flat" alt="redrik278" /> </p>
 
-- 🌱 I’m currently learning **Django,**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Django, Html, CSS, Bootstrap, Java, Python, C etc...**
-
-- 📫 How to reach me **redrik278@gmail.com**
+- 🌱 I’m currently learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/redrik278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="redrik278" height="30" width="40" /></a>
-<a href="https://twitter.com/red__rik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="red__rik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/redrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redrik" height="30" width="40" /></a>
 <a href="https://kaggle.com/redrik278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="redrik278" height="30" width="40" /></a>
 <a href="https://fb.com/redrik278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="redrik278" height="30" width="40" /></a>
 <a href="https://instagram.com/red__rik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="red__rik/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJ6MokUqu6uDOTO4mNgX4Rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="red rik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/redrik278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="redrik278" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/d62cDs3Z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/d62cDs3Z" height="30" width="40" /></a>
-<a href="https://rss.com/podcasts/redrik278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/redrik278/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
