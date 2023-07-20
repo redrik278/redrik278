@@ -1,10 +1,5 @@
 
 <div align=""left>
- <a href="https://www.jakirniloy.me/"><img width="100%" height="auto" align="middle" src="https://user-images.githubusercontent.com/48614476/163666159-f257dbb3-d670-4250-a2f5-4d19c31065cc.png" height="100px"/></a>
-
-
-
-
  
 
 </div>
