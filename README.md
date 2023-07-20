@@ -166,6 +166,9 @@
   }
 </script>
 
+<canvas id="snakeCanvas" width="360" height="400"></canvas>
+<button onclick="startGame()">Start Snake Game</button>
+
 
 ![redrik278 snake gif](https://github.com/redrik278/redrik278/blob/output/github-contribution-grid-snake.svg) 
 <br />
