@@ -19,13 +19,13 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jakirniloy.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://redrik278.github.io)**
 
-- 🥅 2021 Goals: **To become a successful web developer**
+- 🥅 2024 Goals: **To become a successful AI Researcher &  web developer**
 
-- 📫 How to reach me **mdjakirhossen13@gmail.com**
+- 📫 How to reach me **redrik278@gmail.com**
 
-- ⚡ Fun fact **I love to spend time with friends**
+- ⚡ Fun fact **I love to spend time learning new content & watching movie, series**
 
 <br/>
 <br/>
