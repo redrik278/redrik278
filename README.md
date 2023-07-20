@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.your-portfolio-url.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/redrik278/)**
 
 - 🥅 2023 Goals: **To become a successful web developer**
 
