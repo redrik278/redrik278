@@ -1,9 +1,10 @@
-### Hi there 👋, Redwan 
-#### Data Science & Android and Web Development
+ # Redwan Ahmed
+
 ![Data Science & Android and Web Development](https://media.licdn.com/dms/image/D5616AQGqfuexLF65iw/profile-displaybackgroundimage-shrink_350_1400/0/1689880110907?e=1695859200&v=beta&t=ms7h7USquDJzsb0KFSHIsx0vdFZP0FRAGxeRJaTrE68)
 
 I'm Redwan from Bangladesh, and I do data science, and android and web development. I like learning new things.
 
+## Skills and Experience
 Skills: Python/Django/MATLAB/Scikit-Learn/CNN/Deep Learning/JS / HTML / CSS/Bootstrap.
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning Project. 
