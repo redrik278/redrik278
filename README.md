@@ -1,13 +1,13 @@
  # Redwan Ahmed
 
-I'm Redwan from Bangladesh, and I do data science, and android and web development. I like learning new things.
+I'm Redwan from Bangladesh, and I work on data science, android, and web development. I like to explore new things.
 
 ## Skills and Experience
 Skills: Python/Django/MATLAB/Scikit-Learn/CNN/Deep Learning/JS / HTML / CSS/Bootstrap.
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning Project. 
-- 🌱 I’m currently learning NLP, RF, and other Data Science domain, also PHP, 
-- 👯 I’m looking to collaborate on Data Science domain such as Computer vision, segmentation, and web development 
+- 🌱 I’m currently learning NLP, RF, and other Data Science domains, also PHP, 
+- 👯 I’m looking to collaborate in Data Science domains such as Computer vision, and segmentation.
 - 🤔 I’m looking for help with Research paper collaboration 
 - 💬 Ask me about Machine Learning, Deep Learning, Android Studio, Django, PHP, HTML, CSS,  
 - 📫 How to reach me: redrik278@gmail.com 
