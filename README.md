@@ -1,6 +1,6 @@
  # Redwan Ahmed
 
-I'm Redwan from Bangladesh, and I work on data science, android, and web development. I like to explore new things.
+I'm Redwan from Bangladesh, and I am Machine Learning Engineer, Artificial Intelligence Researcher, Data Engineer.
 
 ## Skills and Experience
 Skills: Python/Django/MATLAB/Scikit-Learn/CNN/Deep Learning/JS / HTML / CSS/Bootstrap.
