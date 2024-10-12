@@ -5,8 +5,8 @@ I'm Redwan from Bangladesh, and I am Machine Learning Engineer, Artificial Intel
 ## Skills and Experience
 Skills: Python/Django/MATLAB/Scikit-Learn/CNN/Deep Learning/JS / HTML / CSS/Bootstrap.
 
-- 🔭 I’m currently working on Machine Learning & Deep Learning Project. 
-- 🌱 I’m currently learning NLP, RF, and other Data Science domains, also PHP, 
+- 🔭 I’m currently working on Bioinformatics, Multimodal Learning, NLP.
+- 🧗 I'm learning LLM right now.
 - 👯 I’m looking to collaborate in Data Science domains such as Computer vision, and segmentation.
 - 🤔 I’m looking for help with Research paper collaboration 
 - 💬 Ask me about Machine Learning, Deep Learning, Android Studio, Django, PHP, HTML, CSS,  
