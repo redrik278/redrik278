@@ -3,7 +3,7 @@
 I'm Redwan from Bangladesh, and I am Machine Learning Engineer, Artificial Intelligence Researcher, Data Engineer.
 
 ## Skills and Experience
-Skills: Python/Django/MATLAB/Scikit-Learn/CNN/Deep Learning/JS / HTML / CSS/Bootstrap.
+Skills: Tensorflow/ Pytorch /MATLAB /Python /Django / C++ /Java /JS / PHP.
 
 - 🔭 I’m currently working on Bioinformatics, Multimodal Learning, NLP.
 - 🧗 I'm learning LLM right now.
