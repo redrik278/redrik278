@@ -5,12 +5,9 @@ I'm Redwan from Bangladesh, and I am Machine Learning Engineer, Artificial Intel
 ## Skills and Experience
 Skills: Tensorflow/ Pytorch /MATLAB /Python /Django / C++ /Java /JS / PHP.
 
-- 🔭 I’m currently working on Bioinformatics, Multimodal Learning, NLP.
-- 🧗 I'm learning LLM right now.
+- 🔭 I work on Bioinformatics, Multimodal Learning, NLP.
 - 👯 I’m looking to collaborate in Data Science domains such as Computer vision, and Bioinformatics.
-- 🤔 I’m looking for help with Research paper collaboration 
-- 💬 Ask me about Machine Learning, Deep Learning, Android Studio, Django, PHP, HTML, CSS,  
-- 📫 How to reach me: redrik278@gmail.com 
+- 📫 Know more about me https://redrik278.github.io/Redwan/
 
 
 
